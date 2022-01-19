@@ -1,0 +1,56 @@
+<html>
+<head>
+	<h1>Jyotika kujur</h1>
+</head>
+
+<titel>
+	<strong>E-mail:</strong>kujurjyotika27@gmail.com | <strong>Phone:</strong>1234567891 | <strong>My Github URL:</strong><a href="https://github.com/Jess1267">Jess1267</a>
+</titel>
+<hr>
+
+<title1>
+	<h3>Education</h3>
+</titel1>
+<body>
+<ul>
+	<li>Completed 10th from Chinmaya Vidhyalaya</li>
+	<li>Completed 12th from Kautaliya Secoundary high</li> 
+	</ul>
+</body>
+<hr>
+
+<titel2>
+	<h3>Skills</h3>
+</titel2>
+<body>
+<table>
+<tr>
+	<th>Language</th>
+	<th>skill</th>
+</tr>
+<tr>
+	<td>HTML</td>
+	<td>&#9733</td>
+</tr>
+<tr>
+	<td>CSS</td>
+	<td>yghk</td>
+</tr>
+<tr>
+	<td>Javascript</td>
+	<td>ygh6rfhk</td>
+</tr>
+</table>
+</body>
+<hr>
+
+<titel3>
+	<h3>Contact Me</h3>
+</titel3>
+<body>
+	<form action="/action_page.php">
+		<labelfor="name">Your Name:</label><input type="text" id="name" name="name"<br><br></label>
+		<label for="email">Your Email:</label><input type="text" id="email" name="email"<br><br></label>
+		<label for="message">Your Message:</label><input type="text" id="message" name="message"<br><br></label>
+
+</html>
